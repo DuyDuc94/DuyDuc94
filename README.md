@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+This is my main github, but i still a student
+So, this is my frequently used account: <a href='https://github.com/DuyDucLH'>DuyDucLH</a>
+
 <!--
 **DuyDuc94/DuyDuc94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
