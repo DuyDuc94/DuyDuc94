@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DuyDuc94 (a.k.a @DuyDuc94)
+- 👋 Hi, I’m @DuyDuc94 (a.k.a @DuyDucLH)
 <br>
 <p align="center">
   <a href="https://app.daily.dev/duyduc94">
