@@ -5,6 +5,8 @@
     <img src="https://api.daily.dev/devcards/973512fc4b2940248b19a0c50df3fb74.png?r=v25" width="250" alt="Duy Đức's Dev Card"/>
   </a>
 </p>
+<br/>
+<br/>
 <p align="center">
   <a href="https://github.com/DuyDuc94/github-readme-stats#gh-light-mode-only">
     <img align="center" height="165" src="https://github-readme-stats.vercel.app/api?username=DuyDuc94&hide=stars,issues&custom_title=My+Github+Stats&show_icons=true&rank_icon=github&theme=buefy#gh-light-mode-only" alt="DuyDuc94's github stats" />
