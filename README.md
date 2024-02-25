@@ -1,5 +1,5 @@
 - 👋 Hi, I’m <a href="https://github.com/DuyDuc94">@DuyDuc94</a> (a.k.a <a href="https://github.com/DuyDucLH">@DuyDucLH</a>)
-<br> 
+<br>
 <p align="center">
   <a href="https://app.daily.dev/duyduc94">
     <img src="https://api.daily.dev/devcards/973512fc4b2940248b19a0c50df3fb74.png?r=v25" width="250" alt="Duy Đức's Dev Card"/>
