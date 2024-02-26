@@ -23,7 +23,7 @@
   </a>
 </p>
 
-<!-- Use for counting who visit my profile -->
+<!-- Use for counting who load image (open github profile) -->
 ![](https://hit.yhype.me/github/profile?user_id=117431803)
 
 <p align="right">
